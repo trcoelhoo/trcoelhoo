@@ -5,7 +5,7 @@
 
 
 
-![giphy (2)](https://user-images.githubusercontent.com/84328889/172336222-59c61c7f-6d11-4a6b-abad-a9ea139f232f.gif)
+
 
 <!--
 **trcoelhoo/trcoelhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
