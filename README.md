@@ -1,7 +1,5 @@
 
-![giphy (1)](https://user-images.githubusercontent.com/84328889/172335924-b47e745e-3de5-4755-b6bd-34ec57b731c6.gif)
 ![giphy (4)](https://user-images.githubusercontent.com/84328889/172256386-22047dc4-1be2-45fd-a65d-92fe652440b9.gif)
-![giphy](https://user-images.githubusercontent.com/84328889/172336177-adc31367-aa5b-46e8-83a0-53f76bad1ae6.gif)
 
 
 
